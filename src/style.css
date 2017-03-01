@@ -1,5 +1,8 @@
 body.bg-a { 
-  background: url(../assets/bg.gif);
+  background:
+
+          url(../assets/bg.gif);
+
 }
 body.bg-b { 
   background: #fff;
